@@ -12,6 +12,5 @@ let package = Package(
     ],
     dependencies: [],
     targets: [
-        .target(name: "RecordButton", dependencies: []),
-    ]
-)
+        .target(name: "RecordButton"),
+    ])
